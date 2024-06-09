@@ -70,9 +70,8 @@
   <img src="https://streak-stats.demolab.com?user=ShreshthaSingh011&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+
 ###
-
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ShreshthaSingh011/ShreshthaSingh011/output/github-contribution-grid-snake.svg" />
-
+![Snake animation](https://github.com/eagrundy/ShreshthaSingh011/blob/output/github-contribution-grid-snake.svg)
 ###
