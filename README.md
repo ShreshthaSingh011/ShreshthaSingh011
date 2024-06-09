@@ -73,5 +73,5 @@
 
 
 ###
-![Snake animation](https://github.com/eagrundy/ShreshthaSingh011/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ShreshthaSingh011/ShreshthaSingh011/blob/output/github-contribution-grid-snake.svg)
 ###
