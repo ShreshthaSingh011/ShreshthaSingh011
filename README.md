@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreshthaSingh011&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaSingh011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShreshthaSingh011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Food for thought
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
