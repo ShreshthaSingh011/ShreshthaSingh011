@@ -4,7 +4,7 @@
 🎯 Generative Artificial Intelligence<br>
 
 
-## 🌐 Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shreshtha-singh-173b55188/) 
+## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shreshtha-singh-173b55188/) 
 
 
 # 💻 My Tech Toolkit:
