@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on Large Language Models and Generative Adversarial Networks<br>👯 I’m looking to collaborate on StyleGAN<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Web Development using HTML, CSS and Javascript<br>💬 Ask me about Large Language Models, Deep Learning and Machine Learning<br>⚡ I am a Reader too!
+# 📚 Currently Working on:
+🎯 Small Langauge Models <br>
+🎯 Large Language Models <br>
+🎯 Generative Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
