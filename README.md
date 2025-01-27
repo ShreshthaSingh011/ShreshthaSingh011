@@ -9,6 +9,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/shreshtha-singh-173b55188/)
 
+##Skills
 ### **Programming Languages**
 - ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,8 +18,8 @@
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Language Models & Frameworks**
-- **Large Language Models (LLMs)
-- **Small Language Models (SLMs)
+- Large Language Models (LLMs)
+- Small Language Models (SLMs)
 - ![Hugging Face](https://img.shields.io/badge/Hugging%20Face%20Transformers-%23000000?style=for-the-badge&logo=huggingface&logoColor=white)
 - ![Langchain](https://img.shields.io/badge/LangChain-%23000000?style=for-the-badge&logo=python&logoColor=white)
 - ![Google Palm](https://img.shields.io/badge/Google%20Palm-%2300B5E2?style=for-the-badge&logo=google&logoColor=white)
@@ -37,6 +38,4 @@
 - ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4F00?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api?username=ShreshthaSingh011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreshthaSingh011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaSingh011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreshthaSingh011&show_icons=true&count_private=true)
