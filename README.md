@@ -17,8 +17,8 @@
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Language Models & Frameworks**
-- **Large Language Models (LLMs)**: [Your expertise or experience in working with LLMs like GPT, BERT, etc.]
-- **Small Language Models (SLMs)**: [Your expertise or experience in working with smaller or fine-tuned models]
+- **Large Language Models (LLMs)
+- **Small Language Models (SLMs)
 - ![Hugging Face](https://img.shields.io/badge/Hugging%20Face%20Transformers-%23000000?style=for-the-badge&logo=huggingface&logoColor=white)
 - ![Langchain](https://img.shields.io/badge/LangChain-%23000000?style=for-the-badge&logo=python&logoColor=white)
 - ![Google Palm](https://img.shields.io/badge/Google%20Palm-%2300B5E2?style=for-the-badge&logo=google&logoColor=white)
