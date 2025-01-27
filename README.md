@@ -5,6 +5,7 @@
 
 
 ## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shreshtha-singh-173b55188/) 
+## 🖇️ <a href="https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 
 # 💻 My Tech Toolkit:
