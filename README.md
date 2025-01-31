@@ -1,7 +1,7 @@
 # 📚 Currently Working on:
 🎯 Small Langauge Models <br>
 🎯 Large Language Models <br>
-🎯 Generative Artificial Intelligence<br>
+🎯 Generative Artificial Intelligence <br>
 
 
 ## Socials
@@ -9,7 +9,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/shreshtha-singh-173b55188/)
 
-##Skills
+## Skills
 ### **Programming Languages**
 - ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
