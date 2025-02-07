@@ -8,7 +8,7 @@
 
 - [Google Scholar](https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/shreshtha-singh-173b55188/)
-
+- [Credly](https://www.credly.com/users/shreshtha-singh.7dc04f61/).
 ## Skills
 ### **Programming Languages**
 - ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
