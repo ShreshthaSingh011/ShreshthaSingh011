@@ -1,5 +1,5 @@
 # 📚 Currently Working on:
-🎯 Small Langauge Models <br>
+🎯 Hyperspectral Imaging <br>
 🎯 Large Language Models <br>
 🎯 Generative Artificial Intelligence <br>
 
