@@ -1,4 +1,4 @@
-#📚 Active Development Areas
+# 📚 Active Development Areas <br>
 • Hyperspectral Imaging Systems  <br>
 • Large Language Models & AI Agents <br> 
 • Generative AI Architectures <br>
