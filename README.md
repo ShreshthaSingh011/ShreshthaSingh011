@@ -1,7 +1,8 @@
-# 📚 Currently Working on:
-🎯 Hyperspectral Imaging <br>
-🎯 Large Language Models <br>
-🎯 Generative Artificial Intelligence <br>
+#📚 Active Development Areas
+• Hyperspectral Imaging Systems  <br>
+• Large Language Models & AI Agents <br> 
+• Generative AI Architectures <br>
+
 
 
 ## Socials
